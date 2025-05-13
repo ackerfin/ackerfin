@@ -10,12 +10,6 @@
 ## 📌 Featured Project: TensionTracker
 *“What if we could map global tensions like we track weather storms?”*
 
-TensionTracker is an early-stage project that:
-- Analyzes diplomatic trends from media & political statements (NLP)
-- Uses graph mapping to show alliances/conflicts in real time
-- Adds emotion detection via computer vision for summits/conferences
-- Combines IR theory + tech for people who love both drama and data
-
 ---
 <!---
 ackerfin/ackerfin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
