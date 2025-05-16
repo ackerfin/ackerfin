@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning computer science
 - 🧠 Into: geopolitics, machine learning, computer vision & international relations  
 - 😄 Pronouns: they/them or u could call me Fin^^
-- ⚡ Fun fact: i'm just a newbie^^already diving into AI T-T
-
 
 ## 📌 Featured Project: TensionTracker
 *“What if we could map global tensions like we track weather storms?”*
