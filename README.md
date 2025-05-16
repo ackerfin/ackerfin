@@ -2,7 +2,6 @@
 - 👀 I’m passionate about coding & international relations
 - 🌱 I’m currently learning computer science
 - 🧠 Into: geopolitics, machine learning, computer vision & international relations  
-- 😄 Pronouns: they/them or u could call me Fin^^
 
 ## 📌 Featured Project: TensionTracker
 *“What if we could map global tensions like we track weather storms?”*
